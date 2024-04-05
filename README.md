@@ -1,7 +1,8 @@
 ## Hi there 👋 
 
-Hello, I'm Milan Fusco 👋
-Welcome to my GitHub. I'm a Computer Science student at Youngstown State University.
+Hello, I'm Milan Fusco 👋  
+Welcome to my GitHub.  
+I'm a Computer Science student at Youngstown State University.  
 
 👀 I’m interested in Science, Technology, and Politics   
 🌱 I’m currently learning C++, python, fortran    
