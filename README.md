@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋 
 
-<!--
-**milanfusco/milanfusco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Milan Fusco 👋
+Welcome to my GitHub. I'm a Computer Science student at Youngstown State University.
 
-Here are some ideas to get you started:
+👀 I’m interested in Science, Technology, and Politics   
+🌱 I’m currently learning C++, python, fortran    
+📚 My favorite book is Nineteen Eighty-Four by George Orwell    
+🤝  Open to contributing to projects, especially in open-source.    
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/milan-fusco/) or via email at [mdfusco@student.ysu.edu](mailto:mdfusco@student.ysu.edu).    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✌ Keep on rockin' in the free world 
+
+
+
