@@ -8,7 +8,10 @@ I'm a Computer Science student at Youngstown State University.
 
 ✌ Keep on rockin' in the free world 
 
-
+<a href="https://github.com/lucthienphong1120/github-trophies">
 <img align=center src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=MultiLanguage,LongTimeUser,NewUser"/>
-<img align=center src="https://github-profile-trophy.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=Commits,Experience,Repositories"/>
+<a/>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img align=center src="https://github-profile-trophy.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=Commits,Experience,Repositories"/>
+<a/>
