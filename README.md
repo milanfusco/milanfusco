@@ -9,6 +9,6 @@ I'm a Computer Science student at Youngstown State University.
 ✌ Keep on rockin' in the free world 
 
 
-<img src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=MultiLanguage,LongTimeUser,NewUser"/>
-<img src="https://github-profile-trophy.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=Commits,Experience,Repositories"/>
+<img align=center src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=MultiLanguage,LongTimeUser,NewUser"/>
+<img align=center src="https://github-profile-trophy.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=Commits,Experience,Repositories"/>
 
