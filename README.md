@@ -9,4 +9,6 @@ I'm a Computer Science student at Youngstown State University.
 ✌ Keep on rockin' in the free world 
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=milanfusco&theme=light"/>
+
 
