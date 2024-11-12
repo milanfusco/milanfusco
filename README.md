@@ -1,4 +1,4 @@
-## Hi there 👋 
+### `$ whoami`
 
 Hello, I'm Milan Fusco 👋  
 I'm a Computer Science student at Youngstown State University.  
@@ -8,10 +8,51 @@ I'm a Computer Science student at Youngstown State University.
 
 ✌ Keep on rockin' in the free world 
 
-<a href="https://github.com/lucthienphong1120/github-trophies">
-<img align=center src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=MultiLanguage,LongTimeUser,NewUser"/>
-<a/>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img align=center src="https://github-profile-trophy.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=Commits,Experience,Repositories"/>
-<a/>
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milanfusco&theme=gruvbox">
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      <img align="center" src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories&margin-w=0&margin-h=0" alt="GitHub Trophies"/>
+    </td>
+  </tr>
+</table>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milanfusco&theme=gruvbox">
+      </th>
+      <th>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milanfusco&theme=gruvbox">
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=milanfusco&theme=gruvbox">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milanfusco&theme=gruvbox">
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
