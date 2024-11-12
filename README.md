@@ -1,10 +1,14 @@
 ### `$ whoami`
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Computer+Science+Student;I'm+a+Command+Line+Ninja;I'm+a+C%2B%2B+Aficionado;I'm+a+Nerd" alt="Typing SVG" /></a>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
 Hello, I'm Milan Fusco 👋  
 I'm a Computer Science student at Youngstown State University.  
-
-👀 I’m interested in Science, Technology, and Politics   
-📚 My favorite book is Nineteen Eighty-Four by George Orwell    
 
 ✌ Keep on rockin' in the free world 
 
