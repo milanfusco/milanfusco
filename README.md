@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Computer+Science+Student;I'm+a+Command+Line+Ninja;I'm+a+C%2B%2B+Aficionado;I'm+a+Nerd" alt="Typing SVG" /></a>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Computer+Science+Student;I'm+a+Command+Line+Ninja;I'm+a+C%2B%2B+Aficionado;I'm+a+Nerd" alt="Typing SVG" /></a>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -15,22 +15,19 @@ I'm a Computer Science student at Youngstown State University.
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-<table>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-frame=true&no-border=true&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories" alt="GitHub Trophies"/>
+
+<table align="center" style="margin: 0px auto;">
   <tr>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milanfusco&theme=gruvbox">
-    </td>
-  </tr>
-  <tr>
-    <td> 
-      <img align="center" src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-border=true&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories&margin-w=0&margin-h=0" alt="GitHub Trophies"/>
     </td>
   </tr>
 </table>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<table>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <th>
