@@ -15,7 +15,7 @@ I'm a Computer Science student at Youngstown State University.
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-<p align="center"><img src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-frame=true&no-border=true&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories" alt="GitHub Trophies"/>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=milanfusco&theme=gruvbox&no-frame=true&no-border=true&title=MultiLanguage,LongTimeUser,Commits,Repositories" alt="GitHub Trophies"/>
 
 <table align="center" style="margin: 0px auto;">
   <tr>
